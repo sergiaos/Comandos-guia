@@ -20,6 +20,8 @@ Te presento la guía de comandos que puedes usar en el servidor, tanto en Java c
 
 **/spawn:** Te teletransporta al Spawn
 <br>
+**/warp survival:** Te teletransporta al survival(Alejate 200 bloques mas)
+<br>
 **/discord:** Enlace del discord oficial del server
 <br>
 **/msg [player]:** Envia un mensaje privado a un jugador
