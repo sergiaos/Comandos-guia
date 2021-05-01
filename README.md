@@ -37,4 +37,12 @@ Te presento la guía de comandos que puedes usar en el servidor, tanto en Java c
 **/pay [player]:** Puedes regalar tu dinero al player que elijas 
 <br>
 
+**Clanes**
+<br>
+**/clans:** Accede a una GUI para crear o ver los clanes disponibles
+<br>
+**/clanlist:** Checa la lista de clanes disponibles en el server directamente
+<br>
+
+
 Si tienes alguna duda o reporte de bug, no olvides en abrir un ticket en nuestro <a href="https://discord.gg/HA3AwYpwa4" target="_blank">Discord</a>
